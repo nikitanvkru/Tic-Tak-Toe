@@ -19,3 +19,4 @@
   src="images/tic3.jpg"
   alt="Two human players"
   caption="Two human players illustration">
+## If you want to try it yourself download Tic-Tac-Toe.jar (jdk 17 required)
