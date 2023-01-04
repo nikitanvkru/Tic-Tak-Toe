@@ -1,0 +1,6 @@
+# ignore ALL pictures files
+*.jpg
+*.png
+
+# ignore ALL .iml files
+*.iml
