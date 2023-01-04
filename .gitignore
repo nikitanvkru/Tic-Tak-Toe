@@ -1,5 +1,4 @@
-# ignore ALL pictures files
-*.jpg
+# ignore ALL png files
 *.png
 
 # ignore ALL .iml files

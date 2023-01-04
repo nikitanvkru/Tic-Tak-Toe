@@ -7,14 +7,14 @@
 ##  To choose the game setup click on the top left "Game Button"
 ##  or choose sides manually and press "Start" buttom
 <image
-  src="tic1.jpg"
+  src="images/tic1.jpg"
   alt="App start"
   caption="Initial game setup">
 <image
-  src="tic2.jpg"
+  src="images/tic2.jpg"
   alt="Robot vs robot"
   caption="Random robot vs robot game">
 <image
-  src="tic3.jpg"
+  src="images/tic3.jpg"
   alt="Two human players"
   caption="Two human players illustration">
