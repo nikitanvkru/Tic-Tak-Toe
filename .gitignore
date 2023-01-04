@@ -8,3 +8,6 @@
 # ignore ALL files in ANY directory named out
 out/
 
+# ignore ALL files in ANY directory named .idea
+.idea/
+
